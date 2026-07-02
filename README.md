@@ -71,17 +71,19 @@ A modern platform designed to help students discover **Hackathons, Coding Contes
 
 ### Key Features
 
-* 🔍 Smart event discovery
-* 🎯 Advanced search & filters
-* ⏳ Live countdown timers
-* 👥 Team finder
-* 💬 Community discussions
-* 🔐 Secure authentication
-* 📱 Fully responsive UI
+- 🌍 Discover hackathons, coding contests, workshops & conferences in one place
+- 🤖 AI-powered Project Evaluator and Pitch Deck Generator using Gemini API
+- 👥 Team Finder to connect with like-minded developers
+- 🔍 Smart search, filtering & bookmarking for events
+- 📊 Personalized dashboard with analytics and saved opportunities
+- ⚡ Real-time announcements and participant updates with Socket.IO
+- 🛠️ Organizer dashboard for event management and live communication
+- 🔐 Secure authentication with Email, JWT & Google OAuth
+- 📱 Fully responsive UI optimized for desktop and mobile
 
 **Tech Stack**
 
-`React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
+`React` • `Vite` • `Tailwind CSS` • `Redux Toolkit` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Socket.IO` • `JWT` • `Google OAuth` • `Gemini API` • `Docker` • `AWS EC2`
 
 ---
 
