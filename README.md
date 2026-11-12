@@ -87,7 +87,7 @@ I am a **Full Stack Software Engineer** and **Systems Builder** specializing in 
 | Platform | Rating / Solved | Profile Link |
 | :--- | :--- | :--- |
 | **CodeChef** | **3⭐ (1600+ Peak Rating)** | [View CodeChef Profile](https://www.codechef.com) |
-| **LeetCode** | **1560+ Rating (250+ Solved)** | [View LeetCode Profile](https://leetcode.com) |
+| **LeetCode** | **1560+ Rating (450+ Solved)** | [View LeetCode Profile](https://leetcode.com) |
 
 </div>
 
