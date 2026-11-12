@@ -3,15 +3,15 @@
 # Hi, I'm Devashish Haldar 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Systems+%26+Competitive+Programmer;AI+%2F+ML+%26+Quantitative+Engineering;Building+High-Performance+Distributed+Systems;Next.js+%7C+TypeScript+%7C+C%2B%2B+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&lines=Full+Stack+Software+Engineer;Building+Wingr+(Live+on+Google+Play);AI+Systems+%26+Multi-Agent+Orchestration;C%2B%2B+%7C+TypeScript+%7C+Python+%7C+React+Native" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Status](https://img.shields.io/badge/Status-Open_to_Software_Engineering_Internships-0ea5e9?style=for-the-badge&logo=target&logoColor=white)](#-connect--collaborate)
-[![Education](https://img.shields.io/badge/Education-B.Tech_CSE_(AI_%26_ML)-1e293b?style=for-the-badge&logo=google-scholar&logoColor=white)](#-about-me)
-[![Location](https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)](#-connect--collaborate)
-[![Profile Views](https://komarev.com/ghpvc/?username=devashishhaldar2006&style=for-the-badge&color=0284c7)](https://github.com/devashishhaldar2006)
+[![Status](https://img.shields.io/badge/Status-Open_to_SWE_Internships-0ea5e9?style=for-the-badge&logo=target&logoColor=white)](#-contact--connect)
+[![Google Play](https://img.shields.io/badge/Google_Play-Wingr_Live_(50+_Downloads)-059669?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.devashishcodes.mobile&pli=1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★_(1600+)-d97706?style=for-the-badge&logo=codechef&logoColor=white)](#-competitive-programming--problem-solving)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1560+-f97316?style=for-the-badge&logo=leetcode&logoColor=white)](#-competitive-programming--problem-solving)
 
 </div>
 
@@ -19,74 +19,77 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full Stack Software Engineer** and **Competitive Programmer** specializing in building scalable, real-time web architectures, compiled quantitative systems, and AI-driven platforms.
+I am a **Full Stack Software Engineer** and **Systems Builder** specializing in scalable mobile architectures, distributed backend pipelines, compiled quantitative engines, and multi-agent AI systems.
 
 * 🎓 **B.Tech in Computer Science & Engineering (AI & Machine Learning)** at **PSIT Kanpur** (2024 — 2028).
-* ⚡ **Core Focus**: High-throughput web applications, sub-millisecond compiled engines (C++), and modern distributed backends.
-* 🏆 **Track Record**: National Hackathon Winner (**Deviathon**) & Semifinalist at **IIT Kanpur Hackathon**.
-* 🧠 **Algorithmic Rigor**: 250+ solved problems across LeetCode & Codeforces, focusing on advanced graph theory, dynamic programming, and optimal space-time complexity.
+* 🚀 **Shipped Production Software**: Creator of **Wingr** (live on Google Play with real active users) & **QuantFlow**.
+* 🏆 **Hackathon Winner**: 1st Place National Hackathon Winner (**Deviathon**) & Semifinalist at **IIT Kanpur Hackathon**.
+* ⚡ **Core Philosophy**: Building zero-hallucination, high-performance software with rigorous system design, strong algorithmic fundamentals, and pixel-perfect developer experiences.
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,nextjs,react,nodejs,express,mongodb,postgres,prisma,tailwind,docker,aws,linux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,tailwind,docker,aws,linux,git,github" />
 </div>
 
 <br/>
 
-| Domain | Technologies & Frameworks |
+| Domain | Stack & Frameworks |
 | :--- | :--- |
-| **Languages** | C++17/20, TypeScript, JavaScript (ESNext), Python 3.11, SQL |
-| **Frontend Engineering** | Next.js 15 (App Router), React 19, Redux Toolkit, Tailwind CSS, Turbopack |
-| **Backend & Systems** | Node.js, Express.js, RESTful Architecture, WebSockets / Socket.IO, Webhooks, HMAC Security |
-| **Databases & Storage** | PostgreSQL, Supabase, Prisma ORM, MongoDB Atlas, Cloudflare R2 / S3 Object Storage |
-| **AI / Machine Learning** | PyTorch, Hugging Face, Whisper, Mistral AI, Google Gemini API, NLTK, spaCy |
-| **Cloud & DevOps** | Docker, AWS (EC2), Linux / Fedora, Vercel, Git / GitHub Actions, Postman |
+| **Languages** | TypeScript, JavaScript, Python 3.11, C++17/20, SQL |
+| **Mobile & Frontend** | React Native, Expo 58, Next.js 15 (App Router), React 19, Tailwind CSS |
+| **Backend & Microservices** | Node.js, Express.js, FastAPI, RESTful Architecture, WebSockets / Socket.IO, HMAC Security |
+| **AI & LLM Orchestration** | LangGraph (Multi-Agent State Machines), PyTorch, Hugging Face, NLP Text Parsers, Google Gemini API |
+| **Databases & Caching** | MongoDB Atlas, PostgreSQL, Prisma ORM, Upstash Redis (TTL Cache), Supabase S3 |
+| **Cloud & DevOps** | AWS (EC2), Docker, Linux / Fedora, Render, Vercel, Clerk OAuth 2.0, Git |
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Production Projects
 
-### ⚡ [QuantFlow — Quantitative Backtesting Terminal](https://quantflow.hackcentral.me)
-> **Compiled C++ Strategy Engine & Institutional Financial Analytics Platform**
+### ⚡ [Wingr: The Developer’s Wingman](https://play.google.com/store/apps/details?id=com.devashishcodes.mobile&pli=1)
+> **AI-Powered Career Intelligence & Multi-Agent Telemetry Mobile App** • [![Google Play](https://img.shields.io/badge/Play_Store-Live-green?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.devashishcodes.mobile&pli=1) [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/devashishhaldar2006/Wingr)
+
+* Architected and published a full-stack mobile developer intelligence workspace live on Google Play (50+ active installs).
+* Engineered a multi-agent **LangGraph** & **FastAPI** pipeline for automated resume ATS parsing, document authenticity heuristics, and real-time job alignment scoring against verified engineering roles (LinkedIn, YC).
+* Built an automated GitHub portfolio auditor analyzing commit velocity and test coverage, paired with an open-source issue radar surfacing active `good first issue` tickets.
+* Implemented **Prophet & ARIMA** time-series forecasting models projecting tech demand trends (+4W, +12W, +26W) alongside an **Upstash Redis**-cached live contest radar (LeetCode, Codeforces, AtCoder, CodeChef).
+* **Tech Stack**: `React Native (Expo)` • `TypeScript` • `Python / FastAPI` • `LangGraph` • `Node.js` • `Upstash Redis` • `MongoDB Atlas` • `AWS`
+
+---
+
+### 📈 [QuantFlow — Quantitative Backtesting Terminal](https://quantflow.hackcentral.me)
+> **Compiled C++ Strategy Engine & Institutional Financial Analytics Platform** • [![Live Terminal](https://img.shields.io/badge/Live-Terminal-0ea5e9?style=flat-square)](https://quantflow.hackcentral.me)
 
 * Built a high-frequency, sub-millisecond strategy execution engine compiled in **C++** with a **Next.js 15 / TypeScript** institutional terminal UI.
 * Implemented real-time market data ingestion (OHLCV candles), customizable risk parameters, interactive equity curves, and automated PDF tear-sheet generation.
-* Built full production monetization via **Razorpay Payments** (dynamic Order & Subscription routing, instant UPI/QR mandates) and automated user lifecycle webhooks via **Clerk & Resend**.
+* Engineered full production monetization via **Razorpay** (dynamic order & subscription routing, instant UPI/QR mandates) with webhook lifecycle automation via **Clerk & Resend**.
 * **Tech Stack**: `C++20` • `Next.js 15` • `TypeScript` • `PostgreSQL / Prisma` • `Razorpay` • `Supabase S3` • `Tailwind CSS`
 
 ---
 
-### 🩸 [HackCentral — Intelligent Event & Hackathon Discovery Platform](https://github.com/devashishhaldar2006)
-> **Comprehensive Event Ecosystem, Smart Teammate Matching & Automated AI Evaluation**
+### 🩸 [HackCentral — Developer Ecosystem & Event Discovery Platform](https://github.com/devashishhaldar2006)
+> **Real-Time Event Radar, Teammate Matching & AI Evaluation Engine**
 
-* Scalable discovery engine aggregating technical hackathons, internships, coding challenges, and collegiate conferences in real time.
+* Scalable discovery engine aggregating global hackathons, competitive programming contests, tech events, and internships in real time.
 * Features AI-assisted project evaluators, pitch deck generators, and real-time collaboration lounges.
 * Production role-based access control (RBAC), JWT sessions, Google OAuth, and containerized deployment.
 * **Tech Stack**: `React` • `Node.js` • `Express` • `MongoDB Atlas` • `Socket.IO` • `Docker` • `AWS EC2` • `Gemini API`
 
 ---
 
-### 🧠 Meeting Mentor AI (Minutes) — Intelligent Audio Intelligence
-> **National Hackathon Winner — Deviathon 🥇**
+## 🧠 Competitive Programming & Problem Solving
 
-* Automated meeting intelligence system processing long-form audio streams to extract speakers, actionable agendas, and contextual sentiment summaries.
-* Integrated speech-to-text diarization pipelines and NLP information extraction models.
-* **Tech Stack**: `Python` • `Whisper` • `PyTorch` • `Hugging Face` • `spaCy` • `Flask`
+<div align="center">
 
----
+| Platform | Rating / Solved | Profile Link |
+| :--- | :--- | :--- |
+| **CodeChef** | **3⭐ (1600+ Peak Rating)** | [View CodeChef Profile](https://www.codechef.com) |
+| **LeetCode** | **1560+ Rating (250+ Solved)** | [View LeetCode Profile](https://leetcode.com) |
 
-### 💼 Career Connect — Real-time Technical Interview Platform
-> **Interactive Collaborative Coding & High-Fidelity Remote Evaluation**
-
-* Simultaneous real-time multi-language code editor with live syntax analysis, candidate management pipelines, and sub-second peer synchronization.
-* **Tech Stack**: `React` • `Node.js` • `Express` • `MongoDB` • `Socket.IO`
-
----
-
-## 🏛️ Engineering Architecture & Philosophy
+</div>
 
 ```text
                   ┌──────────────────────────────────────────────┐
@@ -95,11 +98,24 @@ I am a **Full Stack Software Engineer** and **Competitive Programmer** specializ
                                          │
         ┌────────────────────────────────┼────────────────────────────────┐
         ▼                                ▼                                ▼
-  CORE ALGORITHMS                DISTRIBUTED BACKEND              FRONTEND SYSTEMS
-  • DSA Optimization             • RESTful & WebSocket APIs       • Server-Side Rendering (SSR)
-  • C++ Backtest Engine          • Idempotent Webhooks            • Sub-millisecond Client State
-  • Time/Space Efficiency        • Database Indexing & ACID       • Responsive, Accessible UI
+  CORE ALGORITHMS                DISTRIBUTED BACKEND              FRONTEND & MOBILE
+  • C++ Backtest Engine          • RESTful & WebSocket APIs       • React Native / Expo Mobile
+  • Advanced Graphs & DP         • Microservices & Caching        • Server-Side Rendering (SSR)
+  • Time/Space Efficiency        • Database Indexing & ACID       • OLED Dark "Sunset Noir" UI
         │                                │                                │
         └────────────────────────────────┼────────────────────────────────┘
                                          ▼
                  PRODUCTION-GRADE, RELIABLE SOFTWARE
+```
+
+---
+
+## 📬 Contact & Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devashishhaldar2006/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devashishhaldar2006)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:workfordevashishhaldar2006@gmail.com)
+
+</div>
